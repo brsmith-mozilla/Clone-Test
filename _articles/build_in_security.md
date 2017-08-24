@@ -1,9 +1,4 @@
----
-layout: page
-title: "Build in Security"
-following: _articles/engage_membership.md
-date: 2016-10-06 14:05:56
----
+### BUILD IN SECURITY
 
 **What protections have I put around the data I've collected?**
 * Limit access to the data to those who truly need access.
