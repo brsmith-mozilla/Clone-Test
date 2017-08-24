@@ -5,10 +5,10 @@ following: _articles/stay_lean.md
 
 ### Why Lean Data Practices?
 
-Lean Data Practices are a technique to manage data to help you build trust with members and reduce operational risk. You don’t need an engineering degree or a dedicated budget to apply these practices.  All you need is a commitment from your organization to think through data decisions thoughtfully. 
+Lean Data Practices are a technique to manage data to help you build trust with users and reduce operational risk. You don’t need an engineering degree or a dedicated budget to apply these practices.  All you need is a commitment from your organization to think through data decisions thoughtfully. 
 
 **Increased Trust**<br/>
-Members are much less likely to take actions or use services of organizations they don’t trust. Once trust is lost, it's hard -- ifnot impossible -- to regain.
+Users are much less likely to purchase products or use services from organizations they don’t trust. Once trust is lost, it's hard -- if not impossible -- to regain.
 
 **Reduced Risk**<br/>
 Every additional byte you store increases your operating costs and the costs to deal with a data or security breach (like legal fees, fines, credit monitoring services, etc.).
@@ -20,7 +20,7 @@ This toolkit is designed to help you review your processes around collecting and
   
 * [**Build in Security**](https://mozilla.github.io/lean-data-practices-cso/build_in_security/)
     
-* [**Engage Your Membership**](https://mozilla.github.io/lean-data-practices-cso/engage_membership/)
+* [**Engage Your Users**](https://mozilla.github.io/lean-data-practices-cso/engage_users/)
  
 ### Who is this toolkit for?
 
