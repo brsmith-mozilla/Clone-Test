@@ -1,9 +1,5 @@
----
-layout: page
-title: "Stay Lean"
-date: 2017-07-31 14:05:56
-following: _articles/build_in_security.md
----
+### STAY LEAN
+
 **Staying lean starts with asking yourself, do I need this data to provide the value I'm trying to deliver to users?**
 * If you don't need a piece of data, don't collect it.
 * If you need a piece of data, keep it for only as long as necessary and anonymize the data before you store it.
