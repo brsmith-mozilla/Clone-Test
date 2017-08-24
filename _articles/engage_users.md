@@ -1,8 +1,4 @@
----
-layout: page
-title: "Engage Your Users"
-date: 2016-10-06 14:05:56
----
+### ENGAGE YOUR USERS
 
 **Is the way I'm collecting, using, and disclosing data clear to my users?** Ideally, data practices should be designed to be obvious. If practices can't be made obvious, tell your users about them through user experience, privacy notices and support documents
 
