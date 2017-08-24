@@ -1,7 +1,4 @@
----
-layout: home
-following: _articles/stay_lean.md
----
+## LEAN DATA PRACTICES
 
 ### Why Lean Data Practices?
 
@@ -16,11 +13,11 @@ Every additional byte you store increases your operating costs and the costs to 
 ### What's in the toolkit?
 
 This toolkit is designed to help you review your processes around collecting and storing data. Topics covered include:
-* [**Stay Lean**](https://mozilla.github.io/lean-data-practices-cso/stay_lean/)
+* [**Stay Lean**](https://github.com/brsmith-mozilla/LDP-Internal-Demo/blob/master/_articles/stay_lean.md)
   
-* [**Build in Security**](https://mozilla.github.io/lean-data-practices-cso/build_in_security/)
+* [**Build in Security**](https://github.com/brsmith-mozilla/LDP-Internal-Demo/blob/master/_articles/build_in_security.md)
     
-* [**Engage Your Users**](https://mozilla.github.io/lean-data-practices-cso/engage_users/)
+* [**Engage Your Users**](https://github.com/brsmith-mozilla/LDP-Internal-Demo/blob/master/_articles/engage_users.md)
  
 ### Who is this toolkit for?
 
