@@ -21,6 +21,6 @@ This toolkit is designed to help you review your processes around collecting and
  
 ### Who is this toolkit for?
 
-<p>If you (or your organization) are collecting data from advocates so that you can keep in touch with them, this is for you! If you want to make sure you're getting the data you need while protecting the privacy and security of your members, LDP can help you protect your organization from potentially harmful external influences.</p>
+<p>If you (or your company) are collecting data from users so that you can keep in touch with them, this is for you! If you want to make sure you're getting the data you need while protecting the privacy and security of your members, LDP can help you protect your company from potentially harmful external influences.</p>
 
  
